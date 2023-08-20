@@ -1,0 +1,12 @@
+main part
+
+1. banner section --> DONE
+2. 2 catergory carts --> DONE
+3. apply cupon button disabled under 200k --> DONE
+4. make purchage button disabled when 0 --> 
+
+bonus part 
+
+1. modal... --> DONE
+2. go home --> reload --> DONE
+3. responsive --> DONE
